@@ -1,1 +1,0 @@
-# AzureGuard - Python package inits
